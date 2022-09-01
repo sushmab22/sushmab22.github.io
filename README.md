@@ -1,5 +1,6 @@
-# Welcome!
+theme : modernist
 
+# Welcome!
 ### Describing the Dataset
 
 The [data.gov.in](data.gov.in) website is an Open Government Data Website containing a wide range of datasets divided into sectors such as Health and Family Welfare, Agriculture, Transport, Environment and Forest, Education, Finance, etc. Each sector has hundreds of resources along with APIs, infographics and blogs. The government collects this data so it can keep track of the administrative operations, health and population indices and the economy throughout the country. 
