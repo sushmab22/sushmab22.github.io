@@ -1,4 +1,6 @@
 ## Welcome!
+
+
 ### Describing the Dataset
 
 The [data.gov.in](data.gov.in) website is an Open Government Data Website containing a wide range of datasets divided into sectors such as Health and Family Welfare, Agriculture, Transport, Environment and Forest, Education, Finance, etc. Each sector has hundreds of resources along with APIs, infographics and blogs. The government collects this data so it can keep track of the administrative operations, health and population indices and the economy throughout the country. 
@@ -8,6 +10,7 @@ The dataset I picked is the ["National Family Health Survey (NFHS) – 5, 2019-2
 Using this data collected from all over India, the government can see which regions/states it needs to focus on more. Analyzing this data could help the central government understand how the funds allocated in the past to a certain region have been utilized by the local governments, and in the future, it can compare the latest datasets to this one to monitor and track progress. 
 
 This dataset is particularly intriguing because of the nature of the data collected. For example, there’s separate columns for “Sex ratio at birth for children born in the last five years (females per 1,000 males)” and “Sex ratio of the total population (females per 1,000 males)”. India being one of the countries where illegal sex-selective abortions still take place, these columns help us understand where that is happening the most. It could also help us understand the amount of nutrition and care being provided to young boys and girls, depending on their rate of survival. 
+
 
 
 ### Describing a Data Science Book 
